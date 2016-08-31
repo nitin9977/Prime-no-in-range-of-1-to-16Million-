@@ -5,4 +5,5 @@ code is written in an optimized manner and show the total time taken to complete
 
 Compilation Steps
 --> cc -o prime16M_parallel -lm -pthread parallel
+\n
 --> cc -o prime16M_serial -lm -pthread serial
